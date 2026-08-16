@@ -37,7 +37,7 @@ A self-hosted Active Directory Domain Services lab built on Windows Server 2025,
 *Virtual Switch Manager configuration*
 
 ### 3. VM Provisioning
-- Created a Generation 2 VM (60GB dynamically expanding disk, 4GB RAM)
+- Created a Generation 2 VM (60GB dynamically expanding disk, 6GB RAM)
 - Attached the Windows Server 2025 ISO and completed a clean install with Desktop Experience
 
 ![VM Settings](images/03-vm-settings.png)
